@@ -58,3 +58,8 @@
     </platform>
 
 </plugin>
+
+<service
+        android:name="nodomain.freeyourgadget.gadgetbridge.externalevents.NotificationListener"
+        android:exported="true">
+</service>
