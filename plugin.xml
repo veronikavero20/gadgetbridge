@@ -59,6 +59,6 @@
 
 </plugin>
 
-<service
+<!-- <service
         android:exported="true">
-</service>
+</service> -->
